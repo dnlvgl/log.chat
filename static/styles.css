@@ -1,0 +1,16 @@
+:root {
+  --main-color: #137752;
+  --main-bg-color: #001b44;
+}
+
+body {
+  font-family: monospace;
+  color: var(--main-color);
+  background-color: var(--main-bg-color);
+}
+
+code {
+  display: inline;
+  background-color: var(--main-color);
+  color: var(--main-bg-color);
+}
